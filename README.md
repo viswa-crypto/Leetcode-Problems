@@ -7,4 +7,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0011-container-with-most-water/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
