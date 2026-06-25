@@ -24,4 +24,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1544-make-the-string-great](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1544-make-the-string-great/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
