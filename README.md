@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
@@ -71,4 +72,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
