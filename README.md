@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0561-array-partition](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0561-array-partition/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0561-array-partition](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0561-array-partition/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0561-array-partition](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0561-array-partition/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
@@ -91,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0220-contains-duplicate-iii/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
