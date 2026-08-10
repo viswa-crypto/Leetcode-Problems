@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0561-array-partition](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0561-array-partition/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0643-maximum-average-subarray-i](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
