@@ -3,14 +3,14 @@ class Solution {
         int n = nums.length;
         int res = 0;
         int sum =0;
-        int arr[] = new int[k];
-        arr[0] = 1;
+        Map<Integer,Integer> map = new HashMap<>();
+        map.put(0,1);
         for(int i=0;i<n;i++)
         {
             sum+=nums[i];
             int rem = ((sum%k)+k)%k;
-            res+=arr[rem];
-            arr[rem]++;
+            if(map.containsKey(rem)) res+=map.get(rem);
+            map.put(rem,map.getOrDefault(rem ,0)+1);
         }
         return res;
     }
