@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
