@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1544-make-the-string-great](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1544-make-the-string-great/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## Array
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1544-make-the-string-great](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1544-make-the-string-great/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -133,4 +135,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
