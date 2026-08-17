@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1544-make-the-string-great](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1544-make-the-string-great/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0561-array-partition](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0561-array-partition/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
