@@ -4,22 +4,16 @@ class Solution {
         String res = "";
         for(char x : s.toCharArray())
         {
-            if(x == '(' && c == 0)
-            {
-                c++;
-            }else if(x == '(' && c >0)
-            {
-                res+=x;
-                c++;
-            }
-            else if(x == ')' && c>1)
-            {
-                res+=x;
-                c--;
-            }else
-            {
-                c--;
-            }
+           if(x == '(')
+           {
+            if(c!=0) res+=x;
+            c++;
+           }
+           else
+           {
+            c--;
+            if(c!=0) res+=x;
+           }
         }
         return res;
     }
