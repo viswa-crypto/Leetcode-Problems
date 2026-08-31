@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1544-make-the-string-great](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1544-make-the-string-great/) | Easy |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0242-valid-anagram](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0561-array-partition](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0561-array-partition/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -106,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -124,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0451-sort-characters-by-frequency](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0561-array-partition](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0561-array-partition/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
