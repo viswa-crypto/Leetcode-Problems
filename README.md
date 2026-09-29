@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1544-make-the-string-great](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1544-make-the-string-great/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Array
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1544-make-the-string-great](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1544-make-the-string-great/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/viswa-crypto/Leetcode-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
